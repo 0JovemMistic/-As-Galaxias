@@ -1,0 +1,214 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&family=Kalnia+Glaze:wght@100..700&family=Michroma&family=Monsieur+La+Doulaise&family=Nabla&family=Oswald:wght@200..700&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;}
+
+
+
+
+body{
+  min-height: 80vh;
+background-image:linear-gradient(to bottom, rgb(3, 3, 3), rgb(24, 23, 23));
+}
+.menu{
+background-color: rgb(37, 37, 37);
+margin-bottom: 30px;
+height: 40px;
+
+
+
+
+}
+.menu a{
+color: white;
+padding-left: 20px;
+font-size: 1.5em;
+text-decoration: none;
+
+
+
+
+
+}
+.menu a:hover{
+color: purple;
+text-decoration: none;
+
+
+
+}
+
+
+.menu li {
+
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+main{
+background-image: url(img/Captura\ de\ tela\ 2025-06-02\ 105915.png);
+background-attachment: fixed;
+
+}
+
+main a{
+color: black;
+text-decoration: none;
+
+
+
+}
+main h1 {
+  font-family: "Kalnia Glaze", serif;
+  font-size: 9em;
+  font-style: normal;
+ text-align: center;
+ margin-bottom: 0;
+
+
+}
+
+.container {
+
+  display: flex;
+}
+
+
+.coluna1{
+  background-image: url(https://i.pinimg.com/564x/f9/ab/38/f9ab38b5f7d08cf689228d0b879e29ea.jpg);
+
+background-attachment: fixed;
+  
+color: white;
+display:block;
+background-color: rgb(255, 255, 255);
+width: 300px;
+margin-left: 90px;
+padding: 20px;
+text-align: justify;
+border-radius: 10px;
+margin: 10px rgb(255, 255, 255);
+font-family:"Barlow Condensed", sans-serif;
+;
+
+
+}
+
+.coluna2{
+  background-image: url(https://spacetoday.com.br/wp-content/uploads/2017/09/m81_colombari_1080c-1024x684.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-position: center center;
+display: block;
+color: white;
+background-color: rgb(255, 255, 255);
+width: 300px;
+margin-left: 100px;
+padding: 20px;
+text-align: justify;
+border-radius: 10px;
+margin: 10px rgb(255, 255, 255);
+font-family:"Barlow Condensed", sans-serif;
+;
+
+
+}
+
+.coluna3{
+  background-image: url(https://i.pinimg.com/736x/0d/50/55/0d5055d0b405601fd977220cc0b72832.jpg);
+background-attachment: fixed;
+display: block;
+color: white;
+margin-right: 100px;
+background-color: rgb(255, 255, 255);
+width: 300px;
+margin-left: 100px;
+padding: 20px;
+text-align: justify;
+border-radius: 10px;
+margin: 10px rgb(255, 255, 255);
+  font-family: "Barlow Condensed", sans-serif;
+}
+iframe{
+  border: none;
+  margin-top: 50px;
+margin-bottom: 50px;
+border: 30px solid rgb(19, 29, 77);
+border-radius: 20px;
+}
+
+
+
+
+article h1{
+
+text-align: center;
+font-size: 2em;
+color: rgb(255, 255, 255);
+
+
+
+}
+
+
+
+footer{
+background-color: rgb(36, 34, 34);
+height: 30px;
+padding: 10px;
+margin-top: 20px;
+text-align: center;
+font-family:'Barlow Condensed', sans-serif;
+}
+
+footer p{
+color: white;
+
+}
+
+footer a:hover{
+
+text-decoration: underline;
+color: purple;
+
+
+
+}
+footer a{
+color: rgb(123, 176, 255);
+text-decoration: none;
+
+
+}
+
+.p1{
+  background-image: url(https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2025/02/buraco-negro_1740285230669.jpg);
+  background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+  width: 600px;
+  margin: auto;
+ text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+    font-family: "Barlow Condensed", sans-serif;
+    font-size: 1.2em;
+
+margin-top: 70px;}
+.p2{
+ background-image: linear-gradient(to top, rgb(48, 47, 47), rgb(0, 0, 0));
+  padding: 10px;
+  box-shadow: 10px 10px 10px black;
+margin-top: 70px;
+margin-bottom: 80px;
+border-radius: 0px 0px 10px 10px;
+font-family: "Barlow Condensed", sans-serif;
+font-size: 1.2em;
+}
+
+
+
