@@ -133,10 +133,12 @@ margin: 10px rgb(255, 255, 255);
   font-family: "Barlow Condensed", sans-serif;
 }
 iframe{
+  display: flex;
+  margin: auto;
   border: none;
   margin-top: 50px;
 margin-bottom: 50px;
-border: 30px solid rgb(19, 29, 77);
+border: 5px solid rgb(19, 29, 77);
 border-radius: 20px;
 }
 
@@ -205,6 +207,8 @@ margin-top: 70px;}
   box-shadow: 10px 10px 10px black;
 margin-top: 70px;
 margin-bottom: 80px;
+margin-left: 20px;
+margin-right: 20px;
 border-radius: 0px 0px 10px 10px;
 font-family: "Barlow Condensed", sans-serif;
 font-size: 1.2em;
