@@ -11,6 +11,7 @@
 body{
   min-height: 80vh;
 background-image:linear-gradient(to bottom, rgb(3, 3, 3), rgb(24, 23, 23));
+
 }
 .menu{
 background-color: rgb(37, 37, 37);
@@ -43,7 +44,7 @@ text-decoration: none;
 
 .menu li {
 
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: url(fonts/default8.png);
   font-size: 1.2em;
   text-decoration: none;
 }
